@@ -1,0 +1,124 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;700&family=Noto+Serif+KR:wght@300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;700&family=Song+Myung&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body, h1, h2{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    min-width: fit-content;
+}
+
+h1{
+    font-family: 'Song Myung', serif;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2{
+    color: #363636;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 5px;
+}
+
+section{
+    margin-bottom: 24px;
+}
+
+.mainbox{
+    width: 1000px;
+    padding: 30px;
+    margin: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #e99246;
+    box-shadow: 0 1px 20px rgba(0,0,0,0.1);
+}
+
+.lion{
+    width: 30px;
+    height: 30px;
+}
+
+.title-box{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+}
+
+.name-text{
+    font-family: 'Song Myung', serif;
+    font-size: 15px;
+    color:orange;
+}
+
+.sns-img{
+    width: 20px;
+    height: 20px;
+}
+
+.about-me-text{
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.float-wrap{
+    overflow: hidden;
+}
+
+.title-text{
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+    color: #282828;
+}
+
+.year-text{
+    float: right;
+    font-size: 11px;
+    font-weight: bold;
+    color:#282828;
+}
+
+.desc-text{
+    font-size: 9px;
+    padding-left: 5px;
+}
+
+.desc-subtext{
+    font-size: 9px;
+    color:#282828;
+    padding-left: 10px;
+}
+
+table{
+    width: 100%;
+    font-size: 9px;
+    text-align: left;
+}
+
+th{
+    font-size: 11px;
+}
+
+th{
+    border-bottom: 1px solid #b3d5ee;
+}
+
+footer{
+    font-size: 12px;
+    padding: 5px;
+    text-align: center;
+    background-color: #f8a257;
+}
