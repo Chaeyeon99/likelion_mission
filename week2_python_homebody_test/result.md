@@ -16,5 +16,5 @@
 <img width="398" alt="image" src="https://user-images.githubusercontent.com/74848401/162175074-5ae5425d-6489-4f5a-93bc-a2a77d15343d.png">
 
 *** 응용 수행 결과 ***
-질문이 중복이 제거된 채로 랜덤하게 출력
+- 질문이 중복이 제거된 채로 랜덤하게 출력
 <img width="638" alt="image" src="https://user-images.githubusercontent.com/74848401/162175319-f56e84e7-2e9c-4193-943b-087f43ad12d1.png">
