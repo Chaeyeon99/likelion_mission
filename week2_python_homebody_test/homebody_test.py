@@ -7,7 +7,7 @@ def qna(name):
     num = int(input("받을 질문의 개수를 입력해주세요(최대 7개 가능): ")) #형 변환
     yes=0   #네라고 응답한 개수
 
-    keys = list(total_question.keys())
+    keys = list(total_question.keys()) #key만 출력하도록 리스트화
     for i in range(0,num):
         print(keys[i])
         answer = input("답변: ")
