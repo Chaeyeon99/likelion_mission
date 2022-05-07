@@ -16,7 +16,6 @@ print('='*50)
 lang_list = ['en','fr', 'es']
 lang = int(input("번역을 원하는 언어를 입력해주세요(0: 영어, 1: 프랑스어, 2: 스페인어): "))
 result = translator.translate(sentence, lang_list[lang])
-# print(result)
 print(sentence,"를 번역하면, ",result.text)
 
 #깔끔한 출력
