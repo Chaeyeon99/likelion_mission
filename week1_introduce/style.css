@@ -48,6 +48,11 @@ section{
     height: 30px;
 }
 
+.me{
+    width: 200px;
+    
+}
+
 .title-box{
     font-size: 30px;
     font-weight: bold;
@@ -67,8 +72,8 @@ section{
 }
 
 .about-me-text{
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 16px;
+    line-height: 20px;
 }
 
 .float-wrap{
